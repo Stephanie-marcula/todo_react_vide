@@ -1,11 +1,12 @@
 
 # To-Do List App 📝
 
-Este é um projeto de Lista de Tarefas (To-Do List) desenvolvido com ReactJS e Vite. Ele foi criado para auxiliar profissionais na organização de suas atividades diárias, ao mesmo tempo que serve como uma excelente prática para quem está aprendendo ou aprimorando seus conhecimentos em React.
+Este é um projeto de Lista de Tarefas (To-Do List) desenvolvido com ReactJS e Vite. Ele foi criado para auxiliar profissionais na organização de suas atividades diárias, e serve como projeto prático para quem está aprendendo ou aprimorando seus conhecimentos em React.
 
 O projeto oferece uma interface amigável e intuitiva que facilita a criação e o gerenciamento de tarefas, ajudando a aumentar sua produtividade tanto no trabalho quanto nos estudos.
 
-https://stephanie-marcula.github.io/todo_react_vide/
+## Demonstração
+Você pode acessar a demonstração ao vivo do aplicativo aqui: https://stephanie-marcula.github.io/todo_react_vide/
 
 
 ## Funcionalidades
