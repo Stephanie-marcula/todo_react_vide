@@ -6,7 +6,7 @@ This is a To-Do List project developed with ReactJS and Vite. It was created to 
 The project offers a friendly and intuitive interface that makes it easy to create and manage tasks, helping to increase your productivity both at work and in studies.
 
 ## Demo
-You can access the live demo of the application here: [todo_react_vite](https://stephanie-marcula.github.io/todo_react_vide/)
+You can access the live demo of the application here: [todo_react_vite](https://stephanie-marcula.github.io/todo_react_vite/)
 
 ## Features
 
